@@ -60,35 +60,35 @@ async def help(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                             text="💥 ULTRA X MUSIC 💥",
-                            url=f"https://github.com/OFFICIALHACKERERA/ULTRA-X-MUSIC-BOT"),
+                            url=f"lauda le lo bsdk"),
                             
                     InlineKeyboardButton(
                             text="💞 USERBOT REPO 💝",
-                            url=f"https://github.com/OFFICIALHACKERERA/PLUS-MUSIC-BOT")
+                            url=f"maa chudwa lo bsdk")
                 ],
                 [
  
                      InlineKeyboardButton(
                             text="💫 Channel 💫",
-                            url=f"https://t.me/Broken_Heart_72"),
+                            url=f"https://t.me/studynsn"),
                             
                     InlineKeyboardButton(
                             text="💫 Support 💫",
-                            url=f"https://t.me/HEPPYLIFI")
+                            url=f"https://t.me/studynsn")
  
 
                ],
                [
                 
                     InlineKeyboardButton(
-                        "💥 All Repo 💞", url=f"https://t.me/OFFICIALHACKER789")
+                        "💥 All Repo 💞", url=f"https://t.me/krishna_devill_boy")
 
 
               ],
               [
 
                    InlineKeyboardButton(
-                        "♥️ Owner ♥️", url=f"https://t.me/OFFICIALHACKERERA")
+                        "♥️ Owner ♥️", url=f"https://t.me/krishna_devill_boy")
 
              ]
            ]
